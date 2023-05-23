@@ -4,12 +4,12 @@
 <h2 align="center">Linguagens e Tecnologias</h2>
 <p align="center">
   <a href="#" align="center" style="list-style:none;">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs"/>
   </a>
 </p>
   <p align="center">
   <a href="#" align="center" style="list-style:none;">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,vscode"/>
+    <img src="https://skillicons.dev/icons?i=neovim,linux,vscode"/>
   </a>
 </p>
 
