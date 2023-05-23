@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Oi, eu sou o Ricardo</h1>
+<p align="center">Sou estudante de desenvolvimento web pela Trybe</p>
 
-<!--
-**ricardoraposo/ricardoraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Linguagens e Tecnologias</h2>
+<p align="center">
+  <a href="#" align="center" style="list-style:none;">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+  </a>
+</p>
+  <p align="center">
+  <a href="#" align="center" style="list-style:none;">
+    <img src="https://skillicons.dev/icons?i=linux,neovim,vscode"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Stats</h2>
+<p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoraposo&layout=compact&theme=aura_dark&count_private=true&hide_border=true&bg_color=0d1117">
+</a></p>
