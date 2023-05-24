@@ -5,10 +5,7 @@
 <p align="center">
   <a href="#" align="center" style="list-style:none;">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs"/>
-  </a>
-</p>
-  <p align="center">
-  <a href="#" align="center" style="list-style:none;">
+    <br></br>
     <img src="https://skillicons.dev/icons?i=neovim,linux,vscode"/>
   </a>
 </p>
