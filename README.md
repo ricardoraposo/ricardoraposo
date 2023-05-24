@@ -3,11 +3,11 @@
 
 <h2 align="center">Linguagens e Tecnologias</h2>
 <p align="center">
-  <a href="#" align="center" style="list-style:none;">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs"/>
     <br></br>
     <img src="https://skillicons.dev/icons?i=neovim,linux,vscode"/>
-  </a>
+  </div>
 </p>
 
 <h2 align="center">Stats</h2>
