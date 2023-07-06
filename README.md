@@ -6,7 +6,7 @@
   <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs"/>
     <br></br>
-    <img src="https://skillicons.dev/icons?i=neovim,linux,vscode"/>
+    <img src="https://skillicons.dev/icons?i=neovim,linux,bash,vscode"/>
   </div>
 </p>
 
