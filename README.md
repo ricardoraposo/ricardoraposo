@@ -4,7 +4,7 @@
 <h2 align="center">Linguagens e Tecnologias</h2>
 <p align="center">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,html,react,tailwind,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=typescript,html,react,tailwind,nodejs,mysql,express"/>
     <br></br>
     <img src="https://skillicons.dev/icons?i=css,vim,linux,bash,git,vscode"/>
   </div>
