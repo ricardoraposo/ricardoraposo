@@ -1,7 +1,7 @@
-<h1 align="center">Oi, eu sou o Ricardo</h1>
-<p align="center">Sou estudante de desenvolvimento web pela Trybe</p>
+<h1 align="center">Hi, I'm Ricardo</h1>
+<p align="center">I'm a fullstack web development student at Trybe</p>
 
-<h2 align="center">Linguagens e Tecnologias</h2>
+<h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <div align="center">
     <img src="https://skillicons.dev/icons?i=go,typescript,html,react,tailwind,nodejs,mysql,express"/>
