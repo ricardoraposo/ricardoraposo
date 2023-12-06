@@ -4,9 +4,9 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,typescript,html,react,tailwind,nodejs,mysql,express"/>
+    <img src="https://skillicons.dev/icons?i=go,typescript,react,tailwind,nodejs,mysql,postgres,express"/>
     <br></br>
-    <img src="https://skillicons.dev/icons?i=css,vim,linux,bash,git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,vscode"/>
   </div>
 </p>
 
