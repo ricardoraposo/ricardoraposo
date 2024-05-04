@@ -4,8 +4,8 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,typescript,react,tailwind,nodejs,bun,mysql,postgres,express,nest,next"/>
+    <img src="https://skillicons.dev/icons?i=go,typescript,elixir,react,tailwind,express,nest,next"/>
     <br></br>
-    <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,jest,docker,kubernetes,vscode"/>
+    <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,jest,docker,kubernetes"/>
   </div>
 </p>
