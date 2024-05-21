@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ricardo</h1>
-<p align="center">I'm a software developer</p>
+<p align="center">I like to code</p>
 
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
