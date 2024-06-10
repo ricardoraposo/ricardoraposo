@@ -6,7 +6,7 @@
   <div align="center">
     <img src="https://skillicons.dev/icons?i=go,typescript,elixir"/>
     <br></br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,express,nest,next"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,next,express,nest"/>
     <br></br>
     <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,jest,docker,kubernetes"/>
   </div>
