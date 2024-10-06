@@ -4,7 +4,7 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,typescript,elixir"/>
+    <img src="https://skillicons.dev/icons?i=go,typescript,ocaml"/>
     <br></br>
     <img src="https://skillicons.dev/icons?i=react,tailwind,next,express,nest"/>
     <br></br>
