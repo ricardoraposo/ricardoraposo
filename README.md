@@ -8,6 +8,6 @@
     <br></br>
     <img src="https://skillicons.dev/icons?i=react,tailwind,next,express,nest"/>
     <br></br>
-    <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,jest,docker,kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,jest,vitest,docker,kubernetes"/>
   </div>
 </p>
