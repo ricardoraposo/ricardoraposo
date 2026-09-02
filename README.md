@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Ricardo</h1>
+<div align="center">
+<a href="https://github.com/arvoreeducacao"><img src="https://oss.arvore.com.br/badges/contributors/ricardoraposo.svg" alt="Árvore OSS Contributor" height="20"></a>
+</div>
+<br/>
 <p align="center">I like to code</p>
+
+
 
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
