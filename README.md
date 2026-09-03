@@ -3,7 +3,7 @@
 <a href="https://github.com/arvoreeducacao"><img src="https://oss.arvore.com.br/badges/contributors/ricardoraposo.svg" alt="Árvore OSS Contributor" height="20"></a>
 </div>
 <br/>
-<p>I like to code</p>
+<p>I like coding</p>
 
 
 
